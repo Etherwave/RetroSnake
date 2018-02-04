@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  贪吃蛇3.cpp
+d:\git\data\retrosnaker\贪吃蛇3\贪吃蛇3.cpp(100): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\git\data\retrosnaker\贪吃蛇3\贪吃蛇3.cpp(207): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  贪吃蛇3.vcxproj -> D:\Git\Data\RetroSnaker\x64\Debug\贪吃蛇3.exe
